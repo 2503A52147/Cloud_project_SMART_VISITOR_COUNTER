@@ -3,8 +3,8 @@
 #define SECRETS_H
 
 // Wi-Fi credentials
-#define WIFI_SSID "Arun@03"
-#define WIFI_PASSWORD "Nithran@03"
+#define WIFI_SSID "your wifi name"
+#define WIFI_PASSWORD "your wifi password"
 
 // AWS IoT endpoint: hostname only, no https://
 #define AWS_IOT_ENDPOINT "a143mfu0pp3ixq-ats.iot.us-east-1.amazonaws.com"
