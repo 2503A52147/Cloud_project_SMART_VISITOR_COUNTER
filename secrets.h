@@ -7,7 +7,7 @@
 #define WIFI_PASSWORD "your wifi password"
 
 // AWS IoT endpoint: hostname only, no https://
-#define AWS_IOT_ENDPOINT "a143mfu0pp3ixq-ats.iot.us-east-1.amazonaws.com"
+#define AWS_IOT_ENDPOINT "replace your aws end point here"
 
 // AWS Root CA certificate
 static const char AWS_CERT_CA[] PROGMEM = R"EOF(
